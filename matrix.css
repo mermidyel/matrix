@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+
+}
+
+body, canvas {
+
+    background-color: rgb(0, 0, 0);
+
+}
+::-webkit-scrollbar{
+    display: none;
+}
